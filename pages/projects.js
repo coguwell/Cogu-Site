@@ -174,7 +174,7 @@ function page(props) {
                     </div>
                 </a>
 
-                <a class="project-card" target="_blank" href="https://cogu-projects.vercel.app/pac-man">
+                <a class="project-card" target="_blank" href="https://cogu-flappy-bird.vercel.app/">
                     <div class="project-content">
                         <h2>
                            <svg viewBox="0 0 70 70" fill="none">
