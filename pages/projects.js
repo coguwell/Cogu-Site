@@ -174,6 +174,30 @@ function page(props) {
                     </div>
                 </a>
 
+                <a class="project-card" target="_blank" href="https://cogu-projects.vercel.app/pac-man">
+                    <div class="project-content">
+                        <h2>
+                           <svg viewBox="0 0 70 70" fill="none">
+                                <path d="M12 35H22" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+                                <path d="M10 40H20" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+                                <circle cx="28" cy="35" r="7" stroke-width="3"/>
+                                <circle cx="31" cy="32.5" r="1.6"/>
+                                <path d="M34 36L39 35L34 33Z" stroke-width="2" stroke-linejoin="round"/>
+                                <path d="M26 35L20 31L22 37Z" stroke-width="2" stroke-linejoin="round"/>
+                                <path d="M25 41Q29 44 33 40" stroke-width="2" stroke-linecap="round"/>
+                                <rect x="50" y="0" width="10" height="20" rx="1" stroke-width="3"/>
+                                <rect x="48" y="18" width="14" height="4" rx="1" stroke-width="3"/>
+                                <rect x="50" y="42" width="10" height="28" rx="1" stroke-width="3"/>
+                                <rect x="48" y="42" width="14" height="4" rx="1" stroke-width="3"/>
+                                <path d="M10 15 Q12 11 16 13 Q17 9 22 10 Q26 10 27 14 Q31 14 31 18 H10 Q8 18 8 16 Q8 15 10 15Z" stroke-width="2"/>
+                                <path d="M12 60H60" stroke-width="2" opacity="0.4"/>
+                            </svg>
+                            <span data-text="Cogu Flappy Bird">Cogu Flappy Bird</span>
+                        </h2>
+                        <p>Uma recriação do jogo Flappy Bird, com o sistemas de jogos do Cogu e skins diferenciadas</p>
+                    </div>
+                </a>
+
                 <a class="project-card" target="_blank" href="https://infinite-run.vercel.app/">
                     <div class="project-content">
                         <h2>
