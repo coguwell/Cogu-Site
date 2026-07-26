@@ -40,7 +40,7 @@ function page(props) {
                     </div>
                 </div>
 
-                <div onClick={() => open('https://github.com/Cogumelo-Seco')} class="avatar-panel">
+                <div onClick={() => open('https://github.com/coguwell')} class="avatar-panel">
                     <img src="/imgs/Cogu-avatar/Default.png" class="avatar-img" />
                 </div>
             </section>

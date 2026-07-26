@@ -116,7 +116,7 @@ function page(props) {
                     </div>
                 </a>
 
-                <a class="project-card" target="_blank" href="https://github.com/Cogumelo-Seco/Game-Snake-in-C">
+                <a class="project-card" target="_blank" href="https://github.com/coguwell/Game-Snake-in-C">
                     <div class="project-content">
                         <h2>
                             <svg width="64" height="64" viewBox="0 0 64 64" fill="none" aria-hidden="true">  

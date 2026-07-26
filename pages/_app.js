@@ -54,7 +54,7 @@ function App({ Component, pageProps }) {
                 <Component {...pageProps} />
             </CookiesProvider>
 
-            <footer onClick={() => open('https://github.com/Cogumelo-Seco')}>
+            <footer onClick={() => open('https://github.com/coguwell')}>
                 <span className="line"></span>
                 
                 <span class="footer-cursor">&gt;_</span>
